@@ -61,7 +61,6 @@ td {
 th {
 	font-weight: bold;
 	background-color: #212938;
-	text-align: center;
 	padding: 6px;
 	border: solid #212938 1px;
 }
@@ -88,10 +87,11 @@ iframe {
 #photo {
 	padding: 40px 0 10px 0;
 	color: #000;
-	background-image: url("marble.jpg");
-	background-size: 1200px;
-	height: 500px;
 	text-align: left;
+	background-image: url("marble.jpg");
+	background-size: 1300px;
+	height: 600px;
+	
 }
 #education {
 	padding: 40px 0 10px 0; 	
