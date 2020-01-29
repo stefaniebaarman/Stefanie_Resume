@@ -86,11 +86,12 @@ iframe {
 	height: 450px;
 }
 #photo {
-	padding: 80px 0 90px 0;
+	padding: 40px 0 10px 0;
 	color: #000;
 	background-image: url("marble.jpg");
 	background-size: 1200px;
 	height: 500px;
+	text-align: left;
 }
 #education {
 	padding: 40px 0 10px 0; 	
