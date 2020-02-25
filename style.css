@@ -80,16 +80,16 @@ iframe {
 }
 #overview {
 	padding: 100px 0 120px 0; 	
-  background-image: url("pink.jpg");
+  background-image: url("marble.jpg");
 	background-size: cover;
 	color: #000;
 	height: 450px;
 }
 #photo {
-	padding: 40px 0 10px 0;
+	padding: 20px 0 20px 0;
 	color: #000;
 	text-align: left;
-	background-image: url("marble.jpg");
+	background-image: url("pink.jpg");
 	background-size: 1300px;
 	height: 600px;
 	
